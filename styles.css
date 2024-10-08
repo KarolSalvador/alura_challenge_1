@@ -4,3 +4,8 @@
     background-color: #051D3B;
     
 }
+
+.container_cabecalho {
+    display: flex;
+    justify-items: center;
+}
