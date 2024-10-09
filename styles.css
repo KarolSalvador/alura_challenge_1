@@ -5,7 +5,24 @@
     
 }
 
-.container_cabecalho {
+.cabecalho {
     display: flex;
-    justify-items: center;
+    height: 50px;
+    margin-right: 50px;
 }
+
+.cabecalho__logo {
+    margin-left: 32px;
+}
+
+.cabecalho__pesquisa {
+    margin-left: 312px;
+    width: 724px;
+    background-color: #474A51;
+    border-radius: 8px;
+}
+
+.cabecalho__foto__perfil {
+    margin-left: 206px;
+}
+
