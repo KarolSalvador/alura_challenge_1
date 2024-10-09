@@ -23,6 +23,7 @@
     width: 724px;
     background-color: #474A51;
     border-radius: 8px;
+    border: transparent;
 }
 
 .cabecalho__foto__perfil {
