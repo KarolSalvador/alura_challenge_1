@@ -7,6 +7,7 @@
 
 .cabecalho {
     display: flex;
+    justify-content: space-between;
     height: 50px;
     margin-right: 50px;
     margin-top: 32px;
@@ -14,20 +15,11 @@
     
 }
 
-.cabecalho__logo {
-    margin-left: 32px;
-}
-
 .cabecalho__pesquisa {
-    margin-left: 312px;
-    width: 724px;
     background-color: #474A51;
     border-radius: 8px;
     border: transparent;
-}
-
-.cabecalho__foto__perfil {
-    margin-left: 206px;
+    width: 752px;
 }
 
 .menu-lateral {
